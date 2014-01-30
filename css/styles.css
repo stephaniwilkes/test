@@ -1,7 +1,13 @@
 /* Your Website Styles */
 
+img {
+
+	width: 320px;
+}
+
 
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
